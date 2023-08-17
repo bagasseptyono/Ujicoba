@@ -5,4 +5,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 
 Berikut daftar Volunter yang diterima:
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
-* Septyono, [LinkedIn](https://www.linkedin.com/in/muhammad-bagas-a49178171/).
+* Septyono, [LinkedIn](https://www.linkedin.com/in/muhammad-bagas-a49178171/). baru
